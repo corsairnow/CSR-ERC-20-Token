@@ -3,12 +3,13 @@ The CSR Token contract is deployed to the Ethereum blockchain.
 
 The token details are as follows :
 
-Token Address:     0x75ecb52e403c617679fbd3e77a50f9d10a842387
-Launched date:     March 2021
-Issued by:         Amplivo Limited, Cayman Islands (a subsidiary company of Corsair)
-Minted Amount:     10 Billion
- 
-Official CSR Website:        https://csrnow.com
+|Description |Value |
+|-|-|
+| Token Address| 0x75ecb52e403c617679fbd3e77a50f9d10a842387|
+| Launched date| March 2021|
+| Issued by| Amplivo Limited, Cayman Islands (a subsidiary company of Corsair)|
+| Minted Amount| 10 Billion|
+| Official CSR Website| https://csrnow.com|
 
 The token contracts are based on standard contracts from https://openzeppelin.org
 
